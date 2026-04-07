@@ -33,11 +33,4 @@
   <img src="https://streak-stats.demolab.com?user=Ari31102003&theme=tokyonight&hide_border=true&border_radius=12&ring=C792EA&fire=C792EA&currStreakLabel=C792EA" height="160"/>
 </div>
 
-<div align="center">
 
-¡El minijuego más rápido de GitHub!
-¿Puedes llegar a 100 clics? ¡Dale a la moneda!
-
-[![Click Me](https://img.shields.io/badge/¡DALE%20CLIC!-MONEDA-yellow?style=for-the-badge&logo=bitcoin)](https://github.com/Ari31102003/Ari31102003/stargazers)
-
-</div>
