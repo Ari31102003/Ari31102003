@@ -34,5 +34,10 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=Ari31102003&theme=onestar&no-frame=true&row=1&margin-w=15&margin-h=15" />
+
+¡El minijuego más rápido de GitHub!
+¿Puedes llegar a 100 clics? ¡Dale a la moneda!
+
+[![Click Me](https://img.shields.io/badge/¡DALE%20CLIC!-MONEDA-yellow?style=for-the-badge&logo=bitcoin)](https://github.com/Ari31102003/Ari31102003/stargazers)
+
 </div>
