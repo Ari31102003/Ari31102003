@@ -1,13 +1,10 @@
-<h1 align="center">> Hola, soy Ariadna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
+<h1 align="center">Hola, soy Ariadna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=700&color=C792EA&center=true&vCenter=true&width=600&lines=Initializing+developer+profile...;const+dev+=+%7B+name:+%22Ariadna%22+%7D;Building+clean+and+scalable+code;while(true)+%7B+learn();+build();+%7D" />
 </div>
 
-
-
 <div align="center">
-  <!-- Herramientas reales de desarrollo -->
   <img src="https://skillicons.dev/icons?i=py" height="55"/>
   <img width="10"/>
   <img src="https://skillicons.dev/icons?i=vscode" height="50"/>
@@ -25,7 +22,6 @@
   <img src="https://skillicons.dev/icons?i=postgres" height="50"/>
 </div>
 
-
 <div align="center">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="25" />
   <img src="https://img.shields.io/badge/Twitter-101010?style=for-the-badge&logo=x&logoColor=white" height="25" />
@@ -34,15 +30,9 @@
 </div>
 
 <div align="center">
-
-  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true&border_radius=12&ring=C792EA&fire=C792EA&currStreakLabel=C792EA" height="160"/>
-  <img src="https://github-profile-trophy.vercel.app?username=TU_USUARIO&theme=onestar&no-frame=true&row=1&margin-w=15&margin-h=15" height="160"/>
-
+  <img src="https://streak-stats.demolab.com?user=Ari31102003&theme=tokyonight&hide_border=true&border_radius=12&ring=C792EA&fire=C792EA&currStreakLabel=C792EA" height="160"/>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="contribution graph" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
-
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=Ari31102003&theme=onestar&no-frame=true&row=1&margin-w=15&margin-h=15" />
+</div>
