@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ari31102003&theme=tokyonight&hide_border=true&border_radius=12&ring=C792EA&fire=C792EA&currStreakLabel=C792EA" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=AriadnaGalvan&theme=tokyonight&hide_border=true&border_radius=12&ring=C792EA&fire=C792EA&currStreakLabel=C792EA" height="160"/>
 </div>
 
 
